@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    margin: 0px;
+    width: 100%;
+    background-color: orange;
+    color: white;
+}
+
+.title{
+    font-size: 25px;
+}
+
+body{
+    background-size: cover;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
